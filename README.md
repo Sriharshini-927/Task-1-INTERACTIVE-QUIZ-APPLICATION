@@ -14,3 +14,7 @@
 
 **DESCRIPTION OF TASK **: This interactive quiz project demonstrates fundamental web development techniques, including HTML for structure, CSS for styling, and JavaScript for interactivity. It provides a solid foundation for further customization and improvement, such as adding a timer, randomizing questions, or improving accessibility features. This project serves as both a practical learning exercise for developers and an enjoyable, interactive experience for users.
 
+
+**OUTPUT**: 
+
+https://github.com/user-attachments/assets/44b8a403-a060-4763-b8af-9b32ddef96ff
